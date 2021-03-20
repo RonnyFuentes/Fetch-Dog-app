@@ -1,6 +1,6 @@
 # CIS422Proj2
 
-# Fetch: The Tinder for Doggy Playdates
+# Fetch: Dog Playdate (iOS App) 
 
 
 The purpose of this app is to act as the Tinder for doggy playdates. Owners will download Fetch, make a profile, and from there, go through various doggy profiles to find the perfect match for their own beloved pup to play with, whenever and wherever.
