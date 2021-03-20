@@ -1,5 +1,3 @@
-# CIS422Proj2
-
 # Fetch: Dog Playdate (iOS App) 
 
 
